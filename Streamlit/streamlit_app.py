@@ -8,7 +8,6 @@ import streamlit as st
 from Analysis import Analyser
 import plotly_express as px
 import plotly.graph_objects as go
-import spacy
 import numpy as np
 
 
