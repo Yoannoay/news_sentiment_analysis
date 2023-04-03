@@ -1,2 +1,0 @@
-*.bin filter=lfs diff=lfs merge=lfs -text
-world_news_analysis/Lib/site-packages/en_core_web_lg/en_core_web_lg-3.5.0/vocab/vectors filter=lfs diff=lfs merge=lfs -text
